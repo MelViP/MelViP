@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mel, a Network analyst 👨‍💻 working remotely 🚀</div>  
+### <div align="center">I'm Mel, a Technical Support analyst 👨‍💻 working remotely 🚀</div>  
   
 
 - 🔭 I’m currently working at IT industry  
