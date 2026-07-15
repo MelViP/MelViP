@@ -26,10 +26,11 @@
 
 <nav>
   <ul>
-    <li>HTML</li>
-    <li>JS</li>
-    <li>CSS</li>
-    <li>Azure, AWS, Git</li>
+    <li>HTML, JS, CSS</li>
+    <li>Endpoint Security</li>
+    <li>Linux</li>
+    <li>Git</li>
+    <li>Cloud</li>
   </ul>
 </nav>
     
@@ -44,7 +45,7 @@
 </div> 
 
 <div>
-    <a href="https://www.instagram.com/planetarium.me/" target="_blank">
+    <a href="https://www.instagram.com/melvip.sh/" target="_blank">
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a> 
 </div>  
